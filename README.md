@@ -37,7 +37,7 @@ The total number of maintenances inside the dataset is 191,241 and the total num
 Please use the following citation:
 
 ```
-@misc{tina_dasci_arcelor
+@misc{tina_dasci_arcelor,
   title={Time-series Industrial Anomaly dataset},
   authors={Ignacio Aguilera-Martos and David López and Marta García-Barzana and Julián Luengo and Francisco Herrera},
   year={2022},
